@@ -1,0 +1,37 @@
+[
+  {
+    "id": "P-101",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 899,
+    "stock": 42
+  },
+  {
+    "id": "P-102",
+    "name": "Notebook",
+    "category": "Stationery",
+    "price": 120,
+    "stock": 150
+  },
+  {
+    "id": "P-103",
+    "name": "USB-C Hub",
+    "category": "Electronics",
+    "price": 1899,
+    "stock": 18
+  },
+  {
+    "id": "P-104",
+    "name": "Desk Lamp",
+    "category": "Home",
+    "price": 1499,
+    "stock": 27
+  },
+  {
+    "id": "P-105",
+    "name": "Pen Set",
+    "category": "Stationery",
+    "price": 199,
+    "stock": 90
+  }
+]

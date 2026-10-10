@@ -1,0 +1,37 @@
+[
+  {
+    "roll_no": "S001",
+    "name": "Ananya",
+    "course": "Python",
+    "score": 91,
+    "city": "Mysuru"
+  },
+  {
+    "roll_no": "S002",
+    "name": "Vikram",
+    "course": "Data Science",
+    "score": 84,
+    "city": "Bengaluru"
+  },
+  {
+    "roll_no": "S003",
+    "name": "Sara",
+    "course": "Python",
+    "score": 96,
+    "city": "Mangaluru"
+  },
+  {
+    "roll_no": "S004",
+    "name": "Arjun",
+    "course": "Web Development",
+    "score": 76,
+    "city": "Hubballi"
+  },
+  {
+    "roll_no": "S005",
+    "name": "Nisha",
+    "course": "Data Science",
+    "score": 88,
+    "city": "Bengaluru"
+  }
+]

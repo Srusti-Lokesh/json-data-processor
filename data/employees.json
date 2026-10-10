@@ -1,0 +1,42 @@
+[
+  {
+    "id": 101,
+    "name": "Asha Rao",
+    "department": "Engineering",
+    "city": "Bengaluru",
+    "salary": 78000,
+    "active": true
+  },
+  {
+    "id": 102,
+    "name": "Rohan Mehta",
+    "department": "Marketing",
+    "city": "Pune",
+    "salary": 62000,
+    "active": true
+  },
+  {
+    "id": 103,
+    "name": "Mira Shah",
+    "department": "Engineering",
+    "city": "Hyderabad",
+    "salary": 84000,
+    "active": false
+  },
+  {
+    "id": 104,
+    "name": "Kabir Nair",
+    "department": "Human Resources",
+    "city": "Chennai",
+    "salary": 59000,
+    "active": true
+  },
+  {
+    "id": 105,
+    "name": "Diya Iyer",
+    "department": "Finance",
+    "city": "Bengaluru",
+    "salary": 71000,
+    "active": true
+  }
+]
